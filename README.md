@@ -26,6 +26,6 @@ Além disso, a dificuldade aumenta progressivamente conforme o tempo avança, to
 
 ## Documentação
 
-A documentação completa dos scripts e sistemas do projeto está disponível na Wiki do repositório.
+A documentação completa dos scripts e sistemas do projeto está disponível na Wiki do repositório:
 
-
+https://github.com/EnzoMB41/raycast/wiki
