@@ -1,0 +1,4 @@
+repository "raycast enzinho gugu/raycast enzinho gugu 2026-05-06_11-38-18@4673965408049@cloud"
+  path "/"
+    br "/main"
+    co "/main"
